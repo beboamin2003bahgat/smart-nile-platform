@@ -1,0 +1,1 @@
+print("Smart Nile Platform Started")
